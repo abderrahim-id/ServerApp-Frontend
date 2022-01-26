@@ -13,7 +13,8 @@
 6. Creation of: src/app/interface/custom-response.ts
 7. Creation of: src/app/interface/app-state.ts
 8. Creation of: src/app/service
-
-to generate services: 
-    edde:serverapp abderrahimidboubker$ ng g service service/server
+9. Generate the service: server.service.ts
+    to generate it:
+        edde:serverapp abderrahimidboubker$ ng g service service/server
+10. Add HttpClientModule in src/app/app.module.ts [13]
 
