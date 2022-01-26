@@ -1,0 +1,19 @@
+
+
+1. Creation of the project: Terminal > ng new --skip-git serverapp
+2. I shared the project on github
+
+
+>> The code:
+1. Creation of: src/app/enum
+2. Creation of: src/app/enum/status.enum.ts
+3. Creation of: src/app/interface
+4. Creation of: src/app/interface/server.ts
+5. Creation of: src/app/enum/data-state.enum.ts
+6. Creation of: src/app/interface/custom-response.ts
+7. Creation of: src/app/interface/app-state.ts
+8. Creation of: src/app/service
+
+to generate services: 
+    edde:serverapp abderrahimidboubker$ ng g service service/server
+
